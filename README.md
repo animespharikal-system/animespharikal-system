@@ -113,6 +113,7 @@ A privacy-first password management concept focused on local-first architecture,
 
 * GitHub: https://github.com/animespharikal-system
 * LinkedIn: https://www.linkedin.com/in/animes-pharikal/
+* X(Twitter): https://x.com/animespharikal
 
 ---
 
