@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Engineering Student
 
-Passionate about building real-world applications using modern web technologies and Artificial Intelligence. I enjoy transforming ideas into products, participating in hackathons, and continuously learning new technologies.
+Passionate about building real-world applications using modern web technologies and Artificial Intelligence. I enjoy transforming ideas into products, participating in hackathons and continuously learning new technologies.
 
 ---
 
